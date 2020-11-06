@@ -17,8 +17,11 @@
   + Output2: All the course urls that may contain corresponding entry link for each faculties(faculty_urls)
   
     **1. Problem here is that course detail sometimes cannot collect from only one page.**
+    
     **2. Some course details are from category page.**
+    
     **3. Some course details needs to get to other pages correspondingly from other pages.**
+    
     **4. Some of faculty details sould be get in this level, so it's better not to get faculty info for twice.**
   
 - Scraping course faculties
